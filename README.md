@@ -8,3 +8,8 @@
           private Integer patientId;
     }
 </code></p>
+
+**PatientDTO.java**
+<p><code>
+    
+</code></p>
